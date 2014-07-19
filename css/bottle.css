@@ -1,0 +1,32 @@
+#generate{
+	width:1000px;
+	height:500px;
+	margin:-100px 50px 0px 50px;
+}
+
+#backtop1button{
+	
+}
+
+#backgroundbottle{
+	width:800px;
+	height:450px;
+	z-index:0;
+}
+
+.bottlepicure{
+	width:100px;
+	height:170px;
+}
+
+#cointreaupicture{
+	margin:0px 0px 240px -700px;
+}
+
+#tequilapicture{
+	margin:0px 10px 240px 10px;
+}
+
+#limejuicepicture{
+	margin:0px 0px 240px 0px;
+}

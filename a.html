@@ -1,0 +1,26 @@
+<html>
+<head>
+	<title>rotate picture</title>
+	<link rel="stylesheet" href="a.css">
+	<script src="jquery.min.js"></script>
+	<script src="wine.js"></script>
+	<script src="jquery-latest.js"></script>
+
+	<script src="jQueryRotate.js"></script>
+	<script>
+
+	$(function(){
+		$("#picta").rotate({angle:30});
+	});
+	</script>
+</head>
+
+<!--r255 g0 b94-->
+
+<body onload="check()">
+<input type="image" id="tequilaButton" class="cocktailImage" src="image/tequila.bmp" onClick="readtequila()">
+<input type="image" id="limejuiceButton" class="cocktailImage" src="image/limejuice.bmp" onClick="readlimejuice()">
+<input type="image" id="cointreauButton" class="cocktailImage" src="image/cointreau.bmp" onClick="readcointreau()">
+
+</body>
+</html>

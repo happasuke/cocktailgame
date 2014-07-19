@@ -1,0 +1,31 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+body{
+	width:1000px;
+	height:800px;
+}
+
+#showrecipibutton{
+	margin:100px 0px 0px 50px;
+}
+
+#tequilapicture{
+	margin:30px 10px 0px 10px;
+	width:100px;
+	height:170px;
+}
+
+#limejuicepicture{
+	margin:0px 10px 0px 10px;
+	width:100px;
+	height:170px;
+}
+
+#cointreaupicture{
+	margin:0px 10px 0px 10px;
+	width:100px;
+	height:170px;
+}
